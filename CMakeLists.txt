@@ -1,13 +1,23 @@
 cmake_minimum_required(VERSION 2.8)
 
-set(PROJECT_NAME set)
+set(PROJECT_NAME Matrix)
 project(${PROJECT_NAME})
 
-# TODO(Korniakov): not sure if these lines are needed
+set(vector VectorMain)
+set(vectorlib VectorLib)
+
+
 set(CMAKE_CONFIGURATION_TYPES "Debug;Release" CACHE STRING "Configs" FORCE)
 if(NOT CMAKE_BUILD_TYPE)
   set(CMAKE_BUILD_TYPE Release)
 endif()
+
+include_directories(${CMAKE_CURRENT_SOURCE_DIR}/VectorLib)
+
+add_subdirectory(Vector)
+add_subdirectory(VectorLib)
+
+
 
 set(CMAKE_ARCHIVE_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}/lib)
 set(CMAKE_LIBRARY_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}/lib)
@@ -20,16 +30,24 @@ set(MP2_INCLUDE "${CMAKE_CURRENT_SOURCE_DIR}/include")
 
 include_directories("${MP2_INCLUDE}" gtest)
 
-# BUILD
-add_subdirectory(src)
-add_subdirectory(samples)
+ #BUILD
+#add_subdirectory(VectorLib)
+#add_subdirectory(Vector)
 add_subdirectory(gtest)
 add_subdirectory(test)
 
-# REPORT
+ #REPORT
 message( STATUS "")
 message( STATUS "General configuration for ${PROJECT_NAME}")
 message( STATUS "======================================")
 message( STATUS "")
 message( STATUS "   Configuration: ${CMAKE_BUILD_TYPE}")
 message( STATUS "")
+
+
+
+
+enable_testing()
+
+target_include_directories(vector_test PRIVATE ${CMAKE_SOURCE_DIR})
+

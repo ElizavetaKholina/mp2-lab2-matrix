@@ -1,7 +1,44 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\1614556\\source\\repos\\ElizavetaKholina\\mp2-lab2-matrix\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\1614556\\source\\repos\\ElizavetaKholina\\mp2-lab2-matrix\\test\\test_tmatrix.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:test\\test_tmatrix.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\1614556\\source\\repos\\ElizavetaKholina\\mp2-lab2-matrix\\test\\test_main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:test\\test_main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\1614556\\source\\repos\\ElizavetaKholina\\mp2-lab2-matrix\\CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\1614556\\source\\repos\\ElizavetaKholina\\mp2-lab2-matrix\\test\\CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:test\\CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\1614556\\source\\repos\\ElizavetaKholina\\mp2-lab2-matrix\\Vector\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Vector\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\1614556\\source\\repos\\ElizavetaKholina\\mp2-lab2-matrix\\VectorLib\\Vector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:VectorLib\\Vector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\1614556\\source\\repos\\ElizavetaKholina\\mp2-lab2-matrix\\VectorLib\\Matrix.h||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:VectorLib\\Matrix.h||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\1614556\\source\\repos\\ElizavetaKholina\\mp2-lab2-matrix\\Vector\\CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Vector\\CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\1614556\\source\\repos\\ElizavetaKholina\\mp2-lab2-matrix\\test\\test_tvector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:test\\test_tvector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +46,132 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test_tmatrix.cpp",
+              "DocumentMoniker": "C:\\Users\\1614556\\source\\repos\\ElizavetaKholina\\mp2-lab2-matrix\\test\\test_tmatrix.cpp",
+              "RelativeDocumentMoniker": "test\\test_tmatrix.cpp",
+              "ToolTip": "C:\\Users\\1614556\\source\\repos\\ElizavetaKholina\\mp2-lab2-matrix\\test\\test_tmatrix.cpp",
+              "RelativeToolTip": "test\\test_tmatrix.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-26T20:27:08.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CMakeLists.txt",
+              "DocumentMoniker": "C:\\Users\\1614556\\source\\repos\\ElizavetaKholina\\mp2-lab2-matrix\\Vector\\CMakeLists.txt",
+              "RelativeDocumentMoniker": "Vector\\CMakeLists.txt",
+              "ToolTip": "C:\\Users\\1614556\\source\\repos\\ElizavetaKholina\\mp2-lab2-matrix\\Vector\\CMakeLists.txt",
+              "RelativeToolTip": "Vector\\CMakeLists.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-10-26T19:41:55.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CMakeLists.txt",
+              "DocumentMoniker": "C:\\Users\\1614556\\source\\repos\\ElizavetaKholina\\mp2-lab2-matrix\\CMakeLists.txt",
+              "RelativeDocumentMoniker": "CMakeLists.txt",
+              "ToolTip": "C:\\Users\\1614556\\source\\repos\\ElizavetaKholina\\mp2-lab2-matrix\\CMakeLists.txt",
+              "RelativeToolTip": "CMakeLists.txt",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-10-26T19:18:45.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "test_main.cpp",
+              "DocumentMoniker": "C:\\Users\\1614556\\source\\repos\\ElizavetaKholina\\mp2-lab2-matrix\\test\\test_main.cpp",
+              "RelativeDocumentMoniker": "test\\test_main.cpp",
+              "ToolTip": "C:\\Users\\1614556\\source\\repos\\ElizavetaKholina\\mp2-lab2-matrix\\test\\test_main.cpp",
+              "RelativeToolTip": "test\\test_main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-26T18:45:40.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CMakeLists.txt",
+              "DocumentMoniker": "C:\\Users\\1614556\\source\\repos\\ElizavetaKholina\\mp2-lab2-matrix\\test\\CMakeLists.txt",
+              "RelativeDocumentMoniker": "test\\CMakeLists.txt",
+              "ToolTip": "C:\\Users\\1614556\\source\\repos\\ElizavetaKholina\\mp2-lab2-matrix\\test\\CMakeLists.txt",
+              "RelativeToolTip": "test\\CMakeLists.txt",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-10-26T18:44:21.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Matrix.h",
+              "DocumentMoniker": "C:\\Users\\1614556\\source\\repos\\ElizavetaKholina\\mp2-lab2-matrix\\VectorLib\\Matrix.h",
+              "RelativeDocumentMoniker": "VectorLib\\Matrix.h",
+              "ToolTip": "C:\\Users\\1614556\\source\\repos\\ElizavetaKholina\\mp2-lab2-matrix\\VectorLib\\Matrix.h",
+              "RelativeToolTip": "VectorLib\\Matrix.h",
+              "ViewState": "AgIAANgAAAAAAAAAAAAAABEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-19T18:44:24.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Vector.h",
+              "DocumentMoniker": "C:\\Users\\1614556\\source\\repos\\ElizavetaKholina\\mp2-lab2-matrix\\VectorLib\\Vector.h",
+              "RelativeDocumentMoniker": "VectorLib\\Vector.h",
+              "ToolTip": "C:\\Users\\1614556\\source\\repos\\ElizavetaKholina\\mp2-lab2-matrix\\VectorLib\\Vector.h",
+              "RelativeToolTip": "VectorLib\\Vector.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALgBAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-16T20:14:49.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\1614556\\source\\repos\\ElizavetaKholina\\mp2-lab2-matrix\\Vector\\main.cpp",
+              "RelativeDocumentMoniker": "Vector\\main.cpp",
+              "ToolTip": "C:\\Users\\1614556\\source\\repos\\ElizavetaKholina\\mp2-lab2-matrix\\Vector\\main.cpp",
+              "RelativeToolTip": "Vector\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-16T20:14:46.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "test_tvector.cpp",
+              "DocumentMoniker": "C:\\Users\\1614556\\source\\repos\\ElizavetaKholina\\mp2-lab2-matrix\\test\\test_tvector.cpp",
+              "RelativeDocumentMoniker": "test\\test_tvector.cpp",
+              "ToolTip": "C:\\Users\\1614556\\source\\repos\\ElizavetaKholina\\mp2-lab2-matrix\\test\\test_tvector.cpp",
+              "RelativeToolTip": "test\\test_tvector.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-26T19:47:32.32Z",
+              "EditorCaption": ""
             }
           ]
         }

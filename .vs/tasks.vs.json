@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "задача-Vector",
+      "appliesTo": "Vector/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "задача-main",
+      "appliesTo": "Vector/main.cpp",
+      "type": "launch"
+    }
+  ]
+}
